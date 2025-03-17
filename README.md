@@ -204,13 +204,3 @@ export const getBlogs = async () => {
 
 ---
 
-## 📜 License
-This project is licensed under the **MIT License**.
-
----
-
-## 📧 Contact
-If you have any questions or suggestions, feel free to reach out:  
-📩 **pragya.mishra01212@gmail.com**  
-🌐 **[GitHub](https://github.com/pragyamishra02)**  
-
